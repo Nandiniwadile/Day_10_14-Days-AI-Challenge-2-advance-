@@ -1,4 +1,4 @@
-Got it! Here’s a **clean, professional README text for GitHub** for **Day 10** without any code blocks:
+
 
 ---
 
